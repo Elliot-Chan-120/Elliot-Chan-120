@@ -20,9 +20,9 @@ Making my profile README.md    Active         ***+=...                  ....-+**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=300&color=8FBCBB&multiline=true&width=750&height=60&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Write-Host+%22Currently+working+on+more+features+for%3A+NOCTURNAL%22+-ForegroundColor+Cyan;Currently+working+on+more+features+for%3A+NOCTURNAL;PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Project+-Name+NOCTURNAL+%7C+Format-List)](https://git.io/typing-svg)
 <pre>
-Name        : NOCTURNAL v2.0.0
+Name        : NOCTURNAL v2.1.0
 Description : Exploring the dark chemical space
-URL         : <a href="https://github.com/Elliot-Chan-120/NOCTURNAL-v2.0.0/blob/main/README.md" target="_blank">https://github.com/Elliot-Chan-120/NOCTURNAL-v2.1.0/blob/main/README.md</a>
+URL         : <a href="https://github.com/Elliot-Chan-120/NOCTURNAL-v2.1.0/blob/main/README.md" target="_blank">https://github.com/Elliot-Chan-120/NOCTURNAL-v2.1.0/blob/main/README.md</a>
 Tags        : @{DrugDiscovery="8A2BE2"; MachineLearning="FF6F00"; ChemicalAnalysis="2C8EBB"}
 Summary     : A database navigation-aided interface for training ML models on drug-protein potency
               & compound molecular fingerprint analysis. The system can apply these models to
