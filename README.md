@@ -22,7 +22,7 @@ Making my profile README.md    Active         ***+=...                  ....-+**
 <pre>
 Name        : NOCTURNAL v2.1.0
 Description : Exploring the dark chemical space
-URL         : <a href="https://github.com/Elliot-Chan-120/NOCTURNAL-v2.3.0/blob/main/README.md" target="_blank">https://github.com/Elliot-Chan-120/NOCTURNAL-v2.3.0/blob/main/README.md</a>
+URL         : <a href="https://github.com/Elliot-Chan-120/NOCTURNAL-v2.4.0/blob/main/README.md" target="_blank">https://github.com/Elliot-Chan-120/NOCTURNAL-v2.4.0/blob/main/README.md</a>
 Tags        : @{DrugDiscovery="8A2BE2"; MachineLearning="FF6F00"; ChemicalAnalysis="2C8EBB"}
 Summary     : A streamlined computational drug discovery platform from target identification to candidate
               optimization and visualization. Featuring a unique molecular optimization algorithm "MutaGen"
