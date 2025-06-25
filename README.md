@@ -24,10 +24,10 @@ Name        : NOCTURNAL v2.1.0
 Description : Exploring the dark chemical space
 URL         : <a href="https://github.com/Elliot-Chan-120/NOCTURNAL-v2.3.0/blob/main/README.md" target="_blank">https://github.com/Elliot-Chan-120/NOCTURNAL-v2.3.0/blob/main/README.md</a>
 Tags        : @{DrugDiscovery="8A2BE2"; MachineLearning="FF6F00"; ChemicalAnalysis="2C8EBB"}
-Summary     : A database navigation-aided interface for training ML models on drug-protein potency
-              & compound molecular fingerprint analysis. The system can apply these models to
-              predict any chemical compounds' potencies against target proteins, and further
-              optimize drug structures using my molecular optimization algorithm system "MutaGen".
+Summary     : A streamlined computational drug discovery platform from target identification to candidate
+              optimization and visualization. Featuring a unique molecular optimization algorithm "MutaGen"
+              and an interactive chemical space network visualization module "ChemNet". All reinforced behind
+              a modular, fault-tolerant architecture.
 </pre>
 
 
