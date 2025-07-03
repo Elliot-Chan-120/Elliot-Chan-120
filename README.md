@@ -18,7 +18,7 @@ Making ML models from scratch  Active         ***+=...                  ....-+**
 </pre>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=300&color=8FBCBB&multiline=true&width=950&height=50&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Write-Host+%22Currently+working+on+more+features+for%3A+NOCTURNAL%22;PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Project+-Name+NOCTURNAL+%7C+Format-List)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=950&height=50&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Write-Host+%22Currently+working+on+more+features+for%3A+NOCTURNAL%22;PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Project+-Name+NOCTURNAL+%7C+Format-List)](https://git.io/typing-svg)
 <pre>
 Name        : NOCTURNAL
 Description : Exploring the dark chemical space
@@ -40,7 +40,7 @@ Email           elliotchan120@gmail.com          <a href="mailto:elliotchan120@g
 </pre>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=300&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-TechStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-TechStack)](https://git.io/typing-svg)
 <pre>
 Python    NumPy    Pandas    scikit-learn    Matplotlib    Plotly    PowerShell
 </pre>
