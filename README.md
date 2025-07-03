@@ -18,9 +18,9 @@ Making ML models from scratch  Active         ***+=...                  ....-+**
 </pre>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=300&color=8FBCBB&multiline=true&width=950&height=50&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Write-Host+%22Currently+working+on+more+features+for%3A+NOCTURNAL%22+-ForegroundColor+Cyan;Currently+working+on+more+features+for%3A+NOCTURNAL;PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Project+-Name+NOCTURNAL+%7C+Format-List)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=300&color=8FBCBB&multiline=true&width=950&height=50&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Write-Host+%22Currently+working+on+more+features+for%3A+NOCTURNAL;PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Project+-Name+NOCTURNAL+%7C+Format-List)](https://git.io/typing-svg)
 <pre>
-Name        : NOCTURNAL v2.4.0
+Name        : NOCTURNAL
 Description : Exploring the dark chemical space
 URL         : <a href="https://github.com/Elliot-Chan-120/NOCTURNAL/blob/main/README.md" target="_blank">https://github.com/Elliot-Chan-120/NOCTURNAL/blob/main/README.md</a>
 Tags        : @{DrugDiscovery="8A2BE2"; MachineLearning="FF6F00"; ChemicalAnalysis="2C8EBB"}
