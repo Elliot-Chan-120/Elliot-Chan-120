@@ -42,14 +42,7 @@ Email           elliotchan120@gmail.com          <a href="mailto:elliotchan120@g
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-TechStack)](https://git.io/typing-svg)
 <pre>
-Python    NumPy    Pandas    scikit-learn    Matplotlib    Plotly    PowerShell
-</pre>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-GitHubStats+%7C+Out-Host)](https://git.io/typing-svg)
-<pre>
-GitHub stats loading...
-View comprehensive stats at: <a href="https://github.com/Elliot-Chan-120" target="_blank">https://github.com/Elliot-Chan-120</a>
+Python    NumPy    Pandas    scikit-learn    Matplotlib    Plotly    PowerShell    BioPython
 </pre>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+_)](https://git.io/typing-svg)
