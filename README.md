@@ -23,7 +23,7 @@ Making ML models from scratch  Active         ***+=...                  ....-+**
 Name        : GEM
 Description : Benign by Design
 URL         : <a href="https://github.com/Elliot-Chan-120/GEM/blob/main/README.md" target="_blank">https://github.com/Elliot-Chan-120/GEM/blob/main/README.md</a>
-Tags        : @{GeneVariantScreening="8A2BE2"; MachineLearning="FF6F00"; TherapeuticGeneRepair="2C8EBB"}
+Tags        : @{GeneVariantScreening="8A2BE2"; MachineLearning="FF6F00"; ComputationalGeneRepair="2C8EBB"}
 Summary     : A gene variant screening and pathogenicity reduction platform, designed to accelerate clinical
               trials and gene therapy target identification. Featuring my unique gene pathogenicity reduction
               algorithm "ReGen", employing a combination of guided mutations and intelligent stochastic edits
