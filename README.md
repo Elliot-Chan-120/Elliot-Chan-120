@@ -18,6 +18,12 @@ Making ML models from scratch  Active         ***+=...                  ....-+**
 </pre>
 
 
+<p align="center">
+  <a href="https://elliot-chan-120.github.io">
+    <img src="https://img.shields.io/badge/My%20Project%20Portfolio%20Website!-5e81ac?style=for-the-badge&logo=github&logoColor=white" width="500"/>
+  </a>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=950&height=85&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Write-Host+%22Flagship+Project+Portfolio%22;PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Project+-Name+GEM+%7C+Format-List;PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Project+-Name+NOCTURNAL+%7C+Format-List)](https://git.io/typing-svg)
 <pre>
 Name        : GEM
