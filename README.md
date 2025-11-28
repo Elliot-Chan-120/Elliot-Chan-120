@@ -20,7 +20,7 @@ Making ML models from scratch  Active         ***+=...                  ....-+**
 
 <p align="center">
   <a href="https://elliot-chan-120.github.io">
-    <img src="https://img.shields.io/badge/My%20Project%20Portfolio%20Website!-5e81ac?style=for-the-badge&logo=github&logoColor=white" width="500"/>
+    <img src="https://img.shields.io/badge/Click%20this%20to%20See%20My%20Project%20Portfolio%20Website!-5e81ac?style=for-the-badge&logo=github&logoColor=white" width="1000"/>
   </a>
 </p>
 
