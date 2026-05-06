@@ -18,7 +18,7 @@ Making ML models from scratch  Active         ***+=...                  ....-+**
 </pre>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-ContactInfo+%7C+Format-Table)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Portfolio-and-Contact-Info+%7C+Format-Table)](https://git.io/typing-svg)
 <pre>
 Protocol        Address                          Link
 --------        -------                          ----
