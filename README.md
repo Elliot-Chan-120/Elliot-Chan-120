@@ -15,11 +15,9 @@ README BOOT.....................................................................
 |                  |IRL..............................Combat Sports: Muay Thai and Boxing|  
 |                  |   .......................General Fitness: Sprinting + Running + S&C|  
 +------------------+--------------------------------------------------------------------+ 
-</pre>
 
-<pre>
+
 FLAGSHIP PROJECTS................................................................POWER ON
-
 NANOMAKER..........................................................................ONLINE
 +-------------------------------------+-------------------------------------------------+ 
 | ░█▀█░█▀█░█▀█░█▀█░█▄█░█▀█░█░█░█▀▀░█▀▄ |  A dual cross-attention transformer framework  |
@@ -34,9 +32,7 @@ into a clear sentence-like coordinate set.
  
 <a href="https://github.com/Elliot-Chan-120/NanoMaker">DOCUMENTATION....................ARCHITECTURE/CONCEPT_VISUALIZATIONS/TESTRUN/BENCHMARKS
 NANOMAKER_LINK...................................................................ONLINE</a>
-</pre>
 
-<pre>
 PRISMATIC..........................................................................ONLINE  
 +---------------------------------------------------------------------------------------+  
 | A full-stack ML web platform for computational | ░█▀█░█▀▄░▀█▀░█▀▀░█▄█░█▀█░▀█▀░▀█▀░█▀▀ |                                                    
@@ -55,9 +51,8 @@ Model performance is 0.90 ROC-AUC, 0.9 PR-AUC, and 0.82 F1 from sequence strings
 <a href="https://prismatic-xi.vercel.app">PRISMATIC_LIVE_DEMO..............................................................ONLINE</a>
 <a href="https://github.com/Elliot-Chan-120/GEM">PRISMATIC_PARENT_PROJECT_DOCUMENTATION.............................FEATURE_ENG/CONCEPTS
 PROJECT_GEM......................................................................ONLINE</a>                                                                                   
-</pre>                                                                                    
-          
-<pre>                                                                                     
+
+  
 LOAD_CONTACT_INFO......................................................................OK 
 +-----------------------+---------------------------------------------------------------+ 
 |                       |<a href="mailto:e224chan@uwaterloo.ca">EMAIL.....................................e224chan@uwaterloo.ca</a>| 
