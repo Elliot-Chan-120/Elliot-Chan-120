@@ -1,36 +1,94 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+whoami)](https://git.io/typing-svg)
 <pre>
-Name                         Value            -+=-:.....                ....:-=+++++=:.....               ......:-=++++
-----                         -----            *######*=...          . ..=*##############*=:..            ...=*#########
-Name                         Elliot Chan      ....:=*###*-..     ....-*###*=:-#+. :#*:=*####=...       ..-####*=:*#- .+
-OS                           Windows 11          ...+#+*###-..   ..-###*+#+..:#+  :#+..:#**###=..    ..=###*#*:..*#- .+
-Uptime                       23 Years              .+#-.:*##*:...:*##*:.-#=  :#+  :#+  :#*..*###-....:*##*:.**: .*#- .+
-                                                   .+#-..+####=.:####=..-#=  :#+  :#+  :#*...####+..+###*:..**: .*#- .+
-PS C:\Users\Elliot-Chan> Get-CodingInterests       .+#-..+#=+##*::+=#=  -#=  :#+  :#+  :#*. .#*+###-.++#*:  **: .*#- .+
-Name                           Value               .+#-..+#-.-###=.=#=  -#=  :#+  :#+  :#*. .#*.:*##*..#*:  **: .*#- .+
-----                           -----               .+#-..+#=+::*##*=#=  -#=  :#+  :#+  :#*. .#*.-.+##*-#*:  **: .*#- .+
-Bio & Cheminformatics          Active              .+#-..+####-.=####=..-#=  :#+  :#+  :#*. .####+.-*###*:  **: .*#- .+
-Data Analysis                  Active              .+#-.:*##*....:*##*:.-#=  :#+  :#+  :#*..:###*:...+###-..**: .*#- .+
-Visualizations                 Active              .+#=*###-..   ..-###*+#=  :#+  :#+  :#*-*###:.    .:####-**: .*#- .+
-Machine Learning               Active            ..-*####-..       ..-*###*-.:#+  :#+..=####*-..       .:*####=:.*#- .+
-Life Sciences Applications     Active         *######*+:..            .:+*#######*#######*+:.            ..=*#######*##
-Making ML models from scratch  Active         ***+=...                  ....-+*******+-....                ....-+******
+README BOOT........................................................................PWR ON
++------------------+--------------------------------------------------------------------+  
+|                  |NAME.....................................................Elliot Chan| 
+|                  |UPTIME......................................................23 Years|                                   
+|     [WHOAMI]     |OS.........................................Ubuntu 24.04.4 LTS x86_64|                 
+|                  |TECH_LANGUAGES...............................Python+R+HTML+JSON+YAML|                 
+|                  |IRL_LANGUAGES...............................English+French+Cantonese|  
++------------------+--------------------------------------------------------------------+  
+                                                                                           
++------------------+--------------------------------------------------------------------+  
+|                  |ONLINE........................... Experimenting with ML from Scratch|  
+|                  |      .................................Translating Biology into Code|  
+|    [HOBBIES?]    |      ................................Customimzing my IDE & Terminal|  
+|                  |IRL..............................Combat Sports: Muay Thai and Boxing|  
+|                  |   .......................General Fitness: Sprinting + Running + S&C|  
++------------------+--------------------------------------------------------------------+ 
 </pre>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-Portfolio-and-Contact-Info+%7C+Format-Table)](https://git.io/typing-svg)
 <pre>
-Protocol        Address                          Link
---------        -------                          ----
-PRISMATIC       prismatic-xi.vercel.app          <a href="https://prismatic-xi.vercel.app">PRISMATIC Live Demo</a>
-Portfolio       elliot-chan-120.github.io        <a href="https://elliot-chan-120.github.io">Project Portfolio Website</a>
-LinkedIn        elliot-chan-6206b01ba            <a href="https://linkedin.com/in/elliot-chan-6206b01ba/" target="_blank">LinkedIn Profile</a>
-Email           elliotchan120@gmail.com          <a href="mailto:elliotchan120@gmail.com">elliotchan120@gmail.com</a>
+FLAGSHIP PROJECTS................................................................POWER ON
+
+NANOMAKER..........................................................................ONLINE
++-------------------------------------+-------------------------------------------------+ 
+| ░█▀█░█▀█░█▀█░█▀█░█▄█░█▀█░█░█░█▀▀░█▀▄ |  A dual cross-attention transformer framework  |
+| ░█░█░█▀█░█░█░█░█░█░█░█▀█░█▀▄░█▀▀░█▀▄ |  engineered for high-affinity protein binding  |
+| ░▀░▀░▀░▀░▀░▀░▀▀▀░▀░▀░▀░▀░▀░▀░▀▀▀░▀░▀ |  pocket design, 3D visualization and analysis  |
++-------------------------------------+-------------------------------------------------+
+NanoMaker applies transformer logic towards the biochemical protein space. 
+Through Inverse Radial Sequencing, NanoMaker turns a disorganized, messy 3D structure
+into a clear sentence-like coordinate set.
+ 
+7M sequence windows, 0.1nM affinity, zero-shot data split.
+ 
+<a href="https://github.com/Elliot-Chan-120/NanoMaker">DOCUMENTATION....................ARCHITECTURE/CONCEPT_VISUALIZATIONS/TESTRUN/BENCHMARKS
+NANOMAKER_LINK...................................................................ONLINE</a>
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+Get-TechStack)](https://git.io/typing-svg)
 <pre>
-Python    NumPy    Pandas    scikit-learn    Matplotlib    Plotly    PowerShell    BioPython
-</pre>
+PRISMATIC..........................................................................ONLINE  
++---------------------------------------------------------------------------------------+  
+| A full-stack ML web platform for computational | ░█▀█░█▀▄░▀█▀░█▀▀░█▄█░█▀█░▀█▀░▀█▀░█▀▀ |                                                    
+| genetic variant pathogenicity screening and    | ░█▀▀░█▀▄░░█░░▀▀█░█░█░█▀█░░█░░░█░░█░░ |                                                   
+| repair.                                        | ░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀░▀░░▀░░▀▀▀░▀▀▀ |                                                    
++---------------------------------------------------------------------------------------+  
+By presenting PRISMATIC with the chromosome number and sequence strings of a 
+mutation, 500+ features are extracted on the DNA and Protein level.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=8FBCBB&multiline=true&width=750&height=35&lines=PS+C%3A%5CUsers%5CElliot-Chan%3E+_)](https://git.io/typing-svg)
+Leveraging the resulting "mutation fingerprint", the deployed model will then predict
+the probability of said mutation's pathogenicity & benignity. Includes my custom
+guided mutation algorithm "ReGen" to reduce mutations' pathogenicity.
+ 
+Model performance is 0.90 ROC-AUC, 0.9 PR-AUC, and 0.82 F1 from sequence strings alone. 
+ 
+<a href="https://prismatic-xi.vercel.app">PRISMATIC_LIVE_DEMO..............................................................ONLINE</a>
+<a href="https://github.com/Elliot-Chan-120/GEM">PRISMATIC_PARENT_PROJECT_DOCUMENTATION.............................FEATURE_ENG/CONCEPTS
+PROJECT_GEM......................................................................ONLINE</a>                                                                                   
+</pre>                                                                                    
+          
+<pre>                                                                                     
+LOAD_CONTACT_INFO......................................................................OK 
++-----------------------+---------------------------------------------------------------+ 
+|                       |<a href="mailto:e224chan@uwaterloo.ca">EMAIL.....................................e224chan@uwaterloo.ca</a>| 
+|                       |PHONE_NUMBER_CAD................................+1_647_241_6175| 
+|     [CONTACT ME?]     |<a href="https://linkedin.com/in/elliot-chan-6206b01ba/" target="_blank">LINKEDIN_PROFILE.........................................ONLINE</a>| 
+|                       |<a href="https://elliot-chan-120.github.io">PROJECT_PORTFOLIO_WEBSITE................................ONLINE</a>| 
+|                       |CURRENTLY_SEEKING.........ENTRY-LEVEL BIOINFORMATICS / ML ROLES| 
++-----------------------+---------------------------------------------------------------+ 
+</pre>                                                                                    
+                                                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
