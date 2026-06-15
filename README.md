@@ -55,12 +55,13 @@ PRISMATIC_PARENT_PROJECT_DOCUMENTATION: FEATURE_ENG/CONCEPTS
 PROJECT_GEM: ONLINE</a>                                                                                   
 
   
-LOAD_CONTACT_INFO......................................................................OK 
+LOAD_CONTACT_INFO......................................................................OK
+CURRENTLY_SEEKING...................................ENTRY-LEVEL BIOINFORMATICS / ML ROLES 
+  
 <a href="mailto:e224chan@uwaterloo.ca">EMAIL: e224chan@uwaterloo.ca</a>
 PHONE_NUMBER_CAD: +1_647_241_6175                                                       
 <a href="https://linkedin.com/in/elliot-chan-6206b01ba/" target="_blank">LINKEDIN_PROFILE: ONLINE</a>
 <a href="https://elliot-chan-120.github.io">PROJECT_PORTFOLIO_WEBSITE: ONLINE</a>
-CURRENTLY_SEEKING.................................ENTRY-LEVEL BIOINFORMATICS / ML ROLES| 
 </pre>                                                                                    
                                                                                           
 
