@@ -32,7 +32,8 @@ into a clear sentence-like coordinate set.
  
 <a href="https://github.com/Elliot-Chan-120/NanoMaker">
 DOCUMENTATION: ARCHITECTURE/CONCEPT_VISUALIZATIONS/TESTRUN/BENCHMARKS
-NANOMAKER_LINK: ONLINE</a>
+NANOMAKER: ONLINE
+</a>
 
 PRISMATIC..........................................................................ONLINE  
 +---------------------------------------------------------------------------------------+  
@@ -49,15 +50,17 @@ guided mutation algorithm "ReGen" to reduce mutations' pathogenicity.
  
 Model performance is 0.90 ROC-AUC, 0.9 PR-AUC, and 0.82 F1 from sequence strings alone. 
  
-<a href="https://prismatic-xi.vercel.app">PRISMATIC_LIVE_DEMO: ONLINE</a>
+<a href="https://prismatic-xi.vercel.app">
+PRISMATIC_LIVE_DEMO: ONLINE
+</a>
 <a href="https://github.com/Elliot-Chan-120/GEM">
 PRISMATIC_PARENT_PROJECT_DOCUMENTATION: FEATURE_ENG/CONCEPTS
-PROJECT_GEM: ONLINE</a>                                                                                   
+PROJECT_GEM: ONLINE
+</a>                                                                                   
 
   
 LOAD_CONTACT_INFO......................................................................OK
 CURRENTLY_SEEKING...................................ENTRY-LEVEL BIOINFORMATICS / ML ROLES 
-  
 <a href="mailto:e224chan@uwaterloo.ca">EMAIL: e224chan@uwaterloo.ca</a>
 PHONE_NUMBER_CAD: +1_647_241_6175                                                       
 <a href="https://linkedin.com/in/elliot-chan-6206b01ba/" target="_blank">LINKEDIN_PROFILE: ONLINE</a>
