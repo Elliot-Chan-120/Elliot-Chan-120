@@ -30,8 +30,8 @@ into a clear sentence-like coordinate set.                                      
                                                                                          |.......:-::..       .::.   .:.   
 7M sequence windows, 0.1nM affinity, zero-shot data split.                               |                 .:::.   .::.    
                                                                                          |   ...........:=:    ...=..     .
-<a href="https://github.com/Elliot-Chan-120/NanoMaker">DOCUMENTATION: ARCHITECTURE/CONCEPT_VISUALIZATIONS/TESTRUN/BENCHMARKS                    
-NANOMAKER: ONLINE</a>                                                                                     
+<a href="https://github.com/Elliot-Chan-120/NanoMaker">DOCUMENTATION: ARCHITECTURE/CONCEPT_VISUALIZATIONS/TESTRUN/BENCHMARKS</a> 
+<a href="https://github.com/Elliot-Chan-120/NanoMaker">NANOMAKER: ONLINE</a>
                                                                                          |:--:-::::::..                    
 PRISMATIC..........................................................................ONLINE|...:=-=:..             . ..---=--
 +---------------------------------------------------------------------------------------+|     .=..:=.     ....--...       
@@ -48,9 +48,9 @@ guided mutation algorithm "ReGen" to reduce mutations' pathogenicity.           
                                                                                          |      ..:..  .:.   .:.     ..:.  
 Model performance is 0.90 ROC-AUC, 0.9 PR-AUC, and 0.82 F1 from sequence strings alone.  |.:-:...  .:.. .:.    .:      .:. 
                                                                                          |      .:::..:.  :.    .:.      ::
-<a href="https://prismatic-xi.vercel.app">PRISMATIC_LIVE_DEMO: ONLINE</a>                                                                                     
-<a href="https://github.com/Elliot-Chan-120/GEM">PRISMATIC_PARENT_PROJECT_DOCUMENTATION: FEATURE_ENG/CONCEPTS                             
-PROJECT_GEM: ONLINE</a>                                                                                     
+<a href="https://prismatic-xi.vercel.app">PRISMATIC_LIVE_DEMO: ONLINE</a>                                         
+<a href="https://github.com/Elliot-Chan-120/GEM">PRISMATIC_PARENT_PROJECT_DOCUMENTATION: FEATURE_ENG/CONCEPTS</a> 
+<a href="https://github.com/Elliot-Chan-120/GEM">PROJECT_GEM: ONLINE</a>                                              
                                                                                          |:...  ..:..::--....   ..:-::.:.  
                                                                                          |               .....--.  .::-:.::
 LOAD_CONTACT_INFO......................................................................OK| ..........           .::.  ::::.
